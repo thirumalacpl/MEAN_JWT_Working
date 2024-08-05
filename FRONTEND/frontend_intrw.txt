@@ -1,0 +1,2 @@
+start frontend ---> npm start
+ng serve will throw error.
