@@ -10,7 +10,8 @@
 oct-17-2024 - token expire alert in frontend
 { expiresIn: "1h" } to { expiresIn: "1m" }
 
-
+try this to implemnt refresh token
+https://www.geeksforgeeks.org/jwt-authentication-with-refresh-tokens/
 
 
 aug-5-2024
