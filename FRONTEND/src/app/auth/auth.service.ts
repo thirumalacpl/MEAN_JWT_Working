@@ -133,6 +133,8 @@ export class AuthService {
   private setAuthTimer(duration: number) {
 
     this.tokenTimer = setTimeout(() => {
+      
+      alert("token expired 60s-1minute")
       this.logout();
     }, duration * 1000);
   }

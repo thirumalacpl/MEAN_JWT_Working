@@ -1,6 +1,17 @@
 
 
 
+
+
+
+
+
+
+
+oct-17-2024 - token expire alert in frontend
+alert("token expired 60s-1minute")
+      this.logout();
+
 aug-5-2024
 start frontend ---> npm start
 ng serve will throw error.
